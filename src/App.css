@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.quiz-container {
+  margin: 20px;
+}
+
+.quiz-navigation button {
+  margin: 10px;
+}
+
+button.selected {
+  background-color: lightblue;
+}
+
+.quiz-result {
+  font-size: 1.5rem;
+  color: green;
+}
